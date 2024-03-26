@@ -11,3 +11,7 @@ void input() {
 
 }
 
+int pemjumlahan(int a, int b) {
+    return a + b;
+}
+
